@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "我愛me",
+  "base_artist": "竹内アンナ",
+  "createdAt": "2025-12-02T20:09:56.729527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "我愛me",
+      "artist": "竹内アンナ",
+      "has_synced": true,
+      "path": "select/01_我愛me_竹内アンナ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "我愛me",
+      "artist": "Anna Takeuchi",
+      "has_synced": true,
+      "path": "select/02_我愛me_Anna_Takeuchi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我愛me",
+      "artist": "竹内アンナ",
+      "has_synced": false,
+      "path": "select/pl_01_我愛me_竹内アンナ.txt"
+    }
+  ]
+}
